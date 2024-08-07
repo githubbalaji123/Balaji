@@ -27,12 +27,7 @@ public class HowToReadDataFromJsonFile {
 		System.out.println(map.get("timeOut"));
 		
 		
-		// changes for github
-		System.out.println("Balaji");
-
-		System.out.println("Harish");
-
-		System.out.println("Mathi");
+		
 
 	
 	
