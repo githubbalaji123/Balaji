@@ -25,6 +25,15 @@ public class HowToReadDataFromJsonFile {
 		System.out.println(map.get("username"));
 		System.out.println(map.get("password"));
 		System.out.println(map.get("timeOut"));
+		
+		
+		
+
+	
+	
+		
+		
 	}
+	
 
 }
